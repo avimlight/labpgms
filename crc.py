@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Nov 25 11:08:09 2023
 
-@author: Admin
-"""
 
 def getcrc(msg):
     reg=[0]*17
